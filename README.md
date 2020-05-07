@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic blog API built with Ruby on Rails 6.2.2
 
-Things you may want to cover:
+You can create, edit and delete posts
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Comments can be added and delete on posts, if a post is deleted the attached comments are also removed
